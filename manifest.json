@@ -1,7 +1,7 @@
 {
   "name": "MGP Validacao do Membro",
   "short_name": "MGP Validacao",
-  "start_url": "/index.html",
+  "start_url": "index.html",
   "display": "fullscreen",
   "background_color": "#3E4EB8",
   "theme_color": "#2F3BA2",
