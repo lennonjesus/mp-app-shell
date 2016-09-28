@@ -1,15 +1,14 @@
 var cacheName = 'pwa-cache-intall-v1';
 
 var filesToCache = [
-  '/',
-  '/index.html',
-  '/scripts/app.js',
-  '/styles/inline.css',
-  '/styles/main.css',
-  '/scripts/vendor/localforage.min.js',
-  '/scripts/vendor/moment-with-locales.min.js',
-  '/scripts/vendor/d3.min.js',
-  '/data.json'
+  'index.html',
+  'scripts/app.js',
+  'styles/inline.css',
+  'styles/main.css',
+  'scripts/vendor/localforage.min.js',
+  'scripts/vendor/moment-with-locales.min.js',
+  'scripts/vendor/d3.min.js',
+  'data.json'
 ];
 
 /*****************************************************************************
