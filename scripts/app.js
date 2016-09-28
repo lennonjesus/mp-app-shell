@@ -113,7 +113,7 @@
 
   if ('serviceWorker' in navigator) {
     navigator.serviceWorker
-    .register('/service-worker.js')
+    .register('service-worker.js')
     .then(function () { console.log('Service Worker Registered'); });
   }
 
@@ -125,7 +125,7 @@
 
   moment.locale("pt-br");
 
-  fetch('/data.json')
+  fetch('data.json')
     .then(response => response.json())
     .then(data => {
       app.daysUntilEnd.innerHTML = 'Atenção: O período de validação termina ' +
