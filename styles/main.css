@@ -1,0 +1,12 @@
+.container {
+  padding: 15px;
+}
+
+.chart div {
+  font: 10px sans-serif;
+  background-color: steelblue;
+  text-align: left;
+  padding: 5px;
+  margin: 5px;
+  color: white;
+}

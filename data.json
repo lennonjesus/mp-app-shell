@@ -1,0 +1,16 @@
+{
+  "periodoValidacaoAtual": {
+    "inicio": "20160922",
+    "fim": "20161018"
+  },
+  "relatorios": {
+    "enviados": [
+      "RELATÓRIO ESTATÍSTICO DA ATRIBUIÇÃO INFÂNCIA E JUVENTUDE INFRACIONAL - TUTELA COLETIVA",
+      "RELATÓRIO ESTATÍSTICO DA ATRIBUIÇÃO TUTELA COLETIVA DE PROTEÇÃO À EDUCAÇÃO",
+      "RELATÓRIO ESTATÍSTICO DA ATRIBUIÇÃO FAZENDA PÚBLICA"
+    ],
+    "naoenviados": [
+      "RELATÓRIO ESTATÍSTICO DA ATRIBUIÇÃO TUTELA INDIVIDUAL DO IDOSO E DA PESSOA COM DEFICIÊNCIA"
+    ]
+  }
+}
